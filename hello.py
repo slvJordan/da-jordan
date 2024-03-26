@@ -1,1 +1,2 @@
-print('Salve Jordan')
+a = 'Data Jordan'
+print(a)
